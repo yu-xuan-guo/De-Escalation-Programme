@@ -24269,9 +24269,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   actionMethods:
-  - action: Move To
-    animationName: 
-    actionChoice: 3
   - action: Pick Up
     animationName: 
     actionChoice: 4
